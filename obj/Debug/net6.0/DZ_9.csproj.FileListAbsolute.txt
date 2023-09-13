@@ -1,0 +1,15 @@
+C:\Users\djchi\OneDrive\Desktop\Обучение\C#\DZ_9\bin\Debug\net6.0\DZ_9.exe
+C:\Users\djchi\OneDrive\Desktop\Обучение\C#\DZ_9\bin\Debug\net6.0\DZ_9.deps.json
+C:\Users\djchi\OneDrive\Desktop\Обучение\C#\DZ_9\bin\Debug\net6.0\DZ_9.runtimeconfig.json
+C:\Users\djchi\OneDrive\Desktop\Обучение\C#\DZ_9\bin\Debug\net6.0\DZ_9.dll
+C:\Users\djchi\OneDrive\Desktop\Обучение\C#\DZ_9\bin\Debug\net6.0\ref\DZ_9.dll
+C:\Users\djchi\OneDrive\Desktop\Обучение\C#\DZ_9\bin\Debug\net6.0\DZ_9.pdb
+C:\Users\djchi\OneDrive\Desktop\Обучение\C#\DZ_9\obj\Debug\net6.0\DZ_9.csproj.AssemblyReference.cache
+C:\Users\djchi\OneDrive\Desktop\Обучение\C#\DZ_9\obj\Debug\net6.0\DZ_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djchi\OneDrive\Desktop\Обучение\C#\DZ_9\obj\Debug\net6.0\DZ_9.AssemblyInfoInputs.cache
+C:\Users\djchi\OneDrive\Desktop\Обучение\C#\DZ_9\obj\Debug\net6.0\DZ_9.AssemblyInfo.cs
+C:\Users\djchi\OneDrive\Desktop\Обучение\C#\DZ_9\obj\Debug\net6.0\DZ_9.csproj.CoreCompileInputs.cache
+C:\Users\djchi\OneDrive\Desktop\Обучение\C#\DZ_9\obj\Debug\net6.0\DZ_9.dll
+C:\Users\djchi\OneDrive\Desktop\Обучение\C#\DZ_9\obj\Debug\net6.0\ref\DZ_9.dll
+C:\Users\djchi\OneDrive\Desktop\Обучение\C#\DZ_9\obj\Debug\net6.0\DZ_9.pdb
+C:\Users\djchi\OneDrive\Desktop\Обучение\C#\DZ_9\obj\Debug\net6.0\DZ_9.genruntimeconfig.cache
